@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/arrow_clockwise.ico</file>
+        <file>icons/arrow_counterclockwise.ico</file>
+        <file>icons/arrow_down.ico</file>
+        <file>icons/arrow_left.ico</file>
+        <file>icons/arrow_right.ico</file>
+        <file>icons/arrow_up.ico</file>
+        <file>icons/stop_green.ico</file>
+        <file>icons/stop_red.ico</file>
+        <file>icons/start_green.ico</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/arrow_clockwise.ico</file>
+        <file>icons/arrow_counterclockwise.ico</file>
+        <file>icons/arrow_down.ico</file>
+        <file>icons/arrow_left.ico</file>
+        <file>icons/arrow_right.ico</file>
+        <file>icons/arrow_up.ico</file>
+        <file>camera/images/shutter.svg</file>
+        <file>motion/icons/arrow_clockwise.ico</file>
+        <file>motion/icons/arrow_counterclockwise.ico</file>
+        <file>motion/icons/arrow_down.ico</file>
+        <file>motion/icons/arrow_left.ico</file>
+        <file>motion/icons/arrow_right.ico</file>
+        <file>motion/icons/arrow_up.ico</file>
+        <file>motion/icons/stop_green.ico</file>
+        <file>motion/icons/stop_red.ico</file>
+        <file>motion/icons/start_green.ico</file>
+    </qresource>
+</RCC>
